@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Memory.h" open="0" top="0" tabpos="4">
+		<Cursor position="7211" topLine="185" />
+	</File>
+	<File name="Page.h" open="0" top="0" tabpos="2">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="PageControl.h" open="0" top="0" tabpos="3">
+		<Cursor position="66" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="310" topLine="6" />
+	</File>
+</CodeBlocks_layout_file>
